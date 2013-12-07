@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Sat Dec 07 15:43:52 IST 2013
+markTmpDer=true
+builderNum=2
+outputDir=
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=tmp
+mainTexFile=cv.tex
+outputFile=cv.pdf
+langSpell=en
+markDer=true
+srcDir=
